@@ -1,0 +1,52 @@
+.tema{
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;
+}
+div{
+text-align: center;
+}
+p{
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  #torta{
+    max-width: 400px;
+  }
+  h2{
+    background-color: #8b8b8b;
+    padding: 10px;
+  ;
+  }
+  li{
+    background-color: #8b8b8b;
+   padding: 10px;
+
+  }
+footer{
+    background-color: yellow
+    ;
+    padding: 20px;
+}
+.section{
+    
+        background-color: #8b8b8b;
+        margin-bottom: -10px;
+        border-radius: 10px;
+}
+.asas{
+    border-radius: 5px;
+}
